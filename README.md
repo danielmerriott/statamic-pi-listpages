@@ -75,7 +75,7 @@ The above code would output something like the following, assuming we're on page
       </ul>
     </div>/!-- END .pagination -->
     
-# LICENCE
+# Licence
 
 This code is provided 'as is' without any warranty of any kind, express or implied. Use it, copy it, change it, or don't... Do with it as you will entirely at your own risk. I have *not* tested this thoroughly - if you want to use this, then that's up to you!
 
